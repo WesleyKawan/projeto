@@ -12,8 +12,8 @@ do curso versionamento de código com Git e GitHub da
 ## 💻 Resumos das Aulas
 
 | Aula | Resumos |
-|------|---------|
-|Gravando Alterações no Repositório Local | [Resumos]
+|------|--------|
+|Gravando Alterações no Repositório Local | [Resumo]() |
 (https://web.dio.me/course/versionamento-de-codigo-com-git-e-github/learning/599dd3dd-d189-474f-a55c-22f37b4472da) |
 
 ```
